@@ -9,7 +9,7 @@ permalink: /blog/
       <div class="post-date">
           </i>{{ post.date | date: date_format }}</div>
       </div>
-      {% if post.author-link and post.author %}<a href="{{post.author-link}}">{{post.author}}</a>{% endif %}
+      {% if post.author-link and post.author %}By: <a href="{{post.author-link}}">{{post.author}}</a>{% endif %}
       <div class="post">
         {{post.content}}
       </div>
