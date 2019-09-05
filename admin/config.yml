@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: CraftForever.github.io/craftforever.github.io
+  repo: CraftForever/craftforever.github.io
   branch: master
   site_domain: suspicious-kepler-e330b8.netlify.com
 
