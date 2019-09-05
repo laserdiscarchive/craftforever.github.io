@@ -4,6 +4,8 @@ backend:
   branch: master
   site_domain: suspicious-kepler-e330b8.netlify.com
 
+media_folder: "images/uploads"
+
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
