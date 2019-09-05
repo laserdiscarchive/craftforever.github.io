@@ -12,6 +12,11 @@
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
+    outline: black;
+    outline-style: solid;
+    outline-width: 2px;
+    width: 850px;
+    margin: auto;
   }
 
   .navBar ul {
